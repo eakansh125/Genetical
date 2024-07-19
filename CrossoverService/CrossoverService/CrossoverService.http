@@ -1,0 +1,6 @@
+@CrossoverService_HostAddress = http://localhost:5096
+
+GET {{CrossoverService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

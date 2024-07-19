@@ -1,0 +1,6 @@
+@ChromosomeGenerationService_HostAddress = http://localhost:5285
+
+GET {{ChromosomeGenerationService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
