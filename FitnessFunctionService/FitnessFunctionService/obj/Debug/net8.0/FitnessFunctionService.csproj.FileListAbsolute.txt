@@ -1,0 +1,65 @@
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Generic GA\FitnessFunctionService\FitnessFunctionService\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Generic GA\FitnessFunctionService\FitnessFunctionService\bin\Debug\net8.0\appsettings.json
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Generic GA\FitnessFunctionService\FitnessFunctionService\bin\Debug\net8.0\FitnessFunctionService.exe
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Generic GA\FitnessFunctionService\FitnessFunctionService\bin\Debug\net8.0\FitnessFunctionService.deps.json
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Generic GA\FitnessFunctionService\FitnessFunctionService\bin\Debug\net8.0\FitnessFunctionService.runtimeconfig.json
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Generic GA\FitnessFunctionService\FitnessFunctionService\bin\Debug\net8.0\FitnessFunctionService.dll
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Generic GA\FitnessFunctionService\FitnessFunctionService\bin\Debug\net8.0\FitnessFunctionService.pdb
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Generic GA\FitnessFunctionService\FitnessFunctionService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Generic GA\FitnessFunctionService\FitnessFunctionService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Generic GA\FitnessFunctionService\FitnessFunctionService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Generic GA\FitnessFunctionService\FitnessFunctionService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Generic GA\FitnessFunctionService\FitnessFunctionService\obj\Debug\net8.0\FitnessFunctionService.csproj.AssemblyReference.cache
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Generic GA\FitnessFunctionService\FitnessFunctionService\obj\Debug\net8.0\FitnessFunctionService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Generic GA\FitnessFunctionService\FitnessFunctionService\obj\Debug\net8.0\FitnessFunctionService.AssemblyInfoInputs.cache
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Generic GA\FitnessFunctionService\FitnessFunctionService\obj\Debug\net8.0\FitnessFunctionService.AssemblyInfo.cs
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Generic GA\FitnessFunctionService\FitnessFunctionService\obj\Debug\net8.0\FitnessFunctionService.csproj.CoreCompileInputs.cache
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Generic GA\FitnessFunctionService\FitnessFunctionService\obj\Debug\net8.0\FitnessFunctionService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Generic GA\FitnessFunctionService\FitnessFunctionService\obj\Debug\net8.0\FitnessFunctionService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Generic GA\FitnessFunctionService\FitnessFunctionService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Generic GA\FitnessFunctionService\FitnessFunctionService\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Generic GA\FitnessFunctionService\FitnessFunctionService\obj\Debug\net8.0\staticwebassets\msbuild.FitnessFunctionService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Generic GA\FitnessFunctionService\FitnessFunctionService\obj\Debug\net8.0\staticwebassets\msbuild.build.FitnessFunctionService.props
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Generic GA\FitnessFunctionService\FitnessFunctionService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FitnessFunctionService.props
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Generic GA\FitnessFunctionService\FitnessFunctionService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FitnessFunctionService.props
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Generic GA\FitnessFunctionService\FitnessFunctionService\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Generic GA\FitnessFunctionService\FitnessFunctionService\obj\Debug\net8.0\scopedcss\bundle\FitnessFunctionService.styles.css
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Generic GA\FitnessFunctionService\FitnessFunctionService\obj\Debug\net8.0\FitnessF.8380A824.Up2Date
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Generic GA\FitnessFunctionService\FitnessFunctionService\obj\Debug\net8.0\FitnessFunctionService.dll
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Generic GA\FitnessFunctionService\FitnessFunctionService\obj\Debug\net8.0\refint\FitnessFunctionService.dll
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Generic GA\FitnessFunctionService\FitnessFunctionService\obj\Debug\net8.0\FitnessFunctionService.pdb
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Generic GA\FitnessFunctionService\FitnessFunctionService\obj\Debug\net8.0\FitnessFunctionService.genruntimeconfig.cache
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Generic GA\FitnessFunctionService\FitnessFunctionService\obj\Debug\net8.0\ref\FitnessFunctionService.dll
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\FitnessFunctionService\FitnessFunctionService\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\FitnessFunctionService\FitnessFunctionService\bin\Debug\net8.0\appsettings.json
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\FitnessFunctionService\FitnessFunctionService\bin\Debug\net8.0\FitnessFunctionService.exe
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\FitnessFunctionService\FitnessFunctionService\bin\Debug\net8.0\FitnessFunctionService.deps.json
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\FitnessFunctionService\FitnessFunctionService\bin\Debug\net8.0\FitnessFunctionService.runtimeconfig.json
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\FitnessFunctionService\FitnessFunctionService\bin\Debug\net8.0\FitnessFunctionService.dll
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\FitnessFunctionService\FitnessFunctionService\bin\Debug\net8.0\FitnessFunctionService.pdb
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\FitnessFunctionService\FitnessFunctionService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\FitnessFunctionService\FitnessFunctionService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\FitnessFunctionService\FitnessFunctionService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\FitnessFunctionService\FitnessFunctionService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\FitnessFunctionService\FitnessFunctionService\obj\Debug\net8.0\FitnessFunctionService.csproj.AssemblyReference.cache
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\FitnessFunctionService\FitnessFunctionService\obj\Debug\net8.0\FitnessFunctionService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\FitnessFunctionService\FitnessFunctionService\obj\Debug\net8.0\FitnessFunctionService.AssemblyInfoInputs.cache
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\FitnessFunctionService\FitnessFunctionService\obj\Debug\net8.0\FitnessFunctionService.AssemblyInfo.cs
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\FitnessFunctionService\FitnessFunctionService\obj\Debug\net8.0\FitnessFunctionService.csproj.CoreCompileInputs.cache
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\FitnessFunctionService\FitnessFunctionService\obj\Debug\net8.0\FitnessFunctionService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\FitnessFunctionService\FitnessFunctionService\obj\Debug\net8.0\FitnessFunctionService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\FitnessFunctionService\FitnessFunctionService\obj\Debug\net8.0\FitnessFunctionService.sourcelink.json
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\FitnessFunctionService\FitnessFunctionService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\FitnessFunctionService\FitnessFunctionService\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\FitnessFunctionService\FitnessFunctionService\obj\Debug\net8.0\staticwebassets\msbuild.FitnessFunctionService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\FitnessFunctionService\FitnessFunctionService\obj\Debug\net8.0\staticwebassets\msbuild.build.FitnessFunctionService.props
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\FitnessFunctionService\FitnessFunctionService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FitnessFunctionService.props
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\FitnessFunctionService\FitnessFunctionService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FitnessFunctionService.props
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\FitnessFunctionService\FitnessFunctionService\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\FitnessFunctionService\FitnessFunctionService\obj\Debug\net8.0\scopedcss\bundle\FitnessFunctionService.styles.css
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\FitnessFunctionService\FitnessFunctionService\obj\Debug\net8.0\FitnessF.8380A824.Up2Date
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\FitnessFunctionService\FitnessFunctionService\obj\Debug\net8.0\FitnessFunctionService.dll
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\FitnessFunctionService\FitnessFunctionService\obj\Debug\net8.0\refint\FitnessFunctionService.dll
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\FitnessFunctionService\FitnessFunctionService\obj\Debug\net8.0\FitnessFunctionService.pdb
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\FitnessFunctionService\FitnessFunctionService\obj\Debug\net8.0\FitnessFunctionService.genruntimeconfig.cache
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\FitnessFunctionService\FitnessFunctionService\obj\Debug\net8.0\ref\FitnessFunctionService.dll

@@ -1,0 +1,6 @@
+@MutationService_HostAddress = http://localhost:5090
+
+GET {{MutationService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

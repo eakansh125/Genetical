@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eakan\\Desktop\\Semester 2\\MSc Project\\Genetical\\ChromosomeGenerationService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A203609C-B3A9-4FC6-A76B-A23B030B1C89}|ChromosomeGenerationService\\ChromosomeGenerationService.csproj|c:\\users\\eakan\\desktop\\semester 2\\msc project\\genetical\\chromosomegenerationservice\\chromosomegenerationservice\\controllers\\chromosomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A203609C-B3A9-4FC6-A76B-A23B030B1C89}|ChromosomeGenerationService\\ChromosomeGenerationService.csproj|solutionrelative:chromosomegenerationservice\\controllers\\chromosomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A203609C-B3A9-4FC6-A76B-A23B030B1C89}|ChromosomeGenerationService\\ChromosomeGenerationService.csproj|c:\\users\\eakan\\desktop\\semester 2\\msc project\\genetical\\chromosomegenerationservice\\chromosomegenerationservice\\services\\chromosomerandom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A203609C-B3A9-4FC6-A76B-A23B030B1C89}|ChromosomeGenerationService\\ChromosomeGenerationService.csproj|solutionrelative:chromosomegenerationservice\\services\\chromosomerandom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A203609C-B3A9-4FC6-A76B-A23B030B1C89}|ChromosomeGenerationService\\ChromosomeGenerationService.csproj|c:\\users\\eakan\\desktop\\semester 2\\msc project\\genetical\\chromosomegenerationservice\\chromosomegenerationservice\\interfaces\\ichromosome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A203609C-B3A9-4FC6-A76B-A23B030B1C89}|ChromosomeGenerationService\\ChromosomeGenerationService.csproj|solutionrelative:chromosomegenerationservice\\interfaces\\ichromosome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A203609C-B3A9-4FC6-A76B-A23B030B1C89}|ChromosomeGenerationService\\ChromosomeGenerationService.csproj|c:\\users\\eakan\\desktop\\semester 2\\msc project\\genetical\\chromosomegenerationservice\\chromosomegenerationservice\\chromosomegenerationservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A203609C-B3A9-4FC6-A76B-A23B030B1C89}|ChromosomeGenerationService\\ChromosomeGenerationService.csproj|solutionrelative:chromosomegenerationservice\\chromosomegenerationservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A203609C-B3A9-4FC6-A76B-A23B030B1C89}|ChromosomeGenerationService\\ChromosomeGenerationService.csproj|c:\\users\\eakan\\desktop\\semester 2\\msc project\\genetical\\chromosomegenerationservice\\chromosomegenerationservice\\chromosomegenerationservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A203609C-B3A9-4FC6-A76B-A23B030B1C89}|ChromosomeGenerationService\\ChromosomeGenerationService.csproj|solutionrelative:chromosomegenerationservice\\chromosomegenerationservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A203609C-B3A9-4FC6-A76B-A23B030B1C89}|ChromosomeGenerationService\\ChromosomeGenerationService.csproj|c:\\users\\eakan\\desktop\\semester 2\\msc project\\genetical\\chromosomegenerationservice\\chromosomegenerationservice\\services\\chromosomeheuristic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A203609C-B3A9-4FC6-A76B-A23B030B1C89}|ChromosomeGenerationService\\ChromosomeGenerationService.csproj|solutionrelative:chromosomegenerationservice\\services\\chromosomeheuristic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChromosomeGenerationService.http",
+              "DocumentMoniker": "C:\\Users\\eakan\\Desktop\\Semester 2\\MSc Project\\Genetical\\ChromosomeGenerationService\\ChromosomeGenerationService\\ChromosomeGenerationService.http",
+              "RelativeDocumentMoniker": "ChromosomeGenerationService\\ChromosomeGenerationService.http",
+              "ToolTip": "C:\\Users\\eakan\\Desktop\\Semester 2\\MSc Project\\Genetical\\ChromosomeGenerationService\\ChromosomeGenerationService\\ChromosomeGenerationService.http",
+              "RelativeToolTip": "ChromosomeGenerationService\\ChromosomeGenerationService.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-01T18:56:05.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChromosomeGenerationService.csproj",
+              "DocumentMoniker": "C:\\Users\\eakan\\Desktop\\Semester 2\\MSc Project\\Genetical\\ChromosomeGenerationService\\ChromosomeGenerationService\\ChromosomeGenerationService.csproj",
+              "RelativeDocumentMoniker": "ChromosomeGenerationService\\ChromosomeGenerationService.csproj",
+              "ToolTip": "C:\\Users\\eakan\\Desktop\\Semester 2\\MSc Project\\Genetical\\ChromosomeGenerationService\\ChromosomeGenerationService\\ChromosomeGenerationService.csproj",
+              "RelativeToolTip": "ChromosomeGenerationService\\ChromosomeGenerationService.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-01T16:53:58.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChromosomeHeuristic.cs",
+              "DocumentMoniker": "C:\\Users\\eakan\\Desktop\\Semester 2\\MSc Project\\Genetical\\ChromosomeGenerationService\\ChromosomeGenerationService\\Services\\ChromosomeHeuristic.cs",
+              "RelativeDocumentMoniker": "ChromosomeGenerationService\\Services\\ChromosomeHeuristic.cs",
+              "ToolTip": "C:\\Users\\eakan\\Desktop\\Semester 2\\MSc Project\\Genetical\\ChromosomeGenerationService\\ChromosomeGenerationService\\Services\\ChromosomeHeuristic.cs",
+              "RelativeToolTip": "ChromosomeGenerationService\\Services\\ChromosomeHeuristic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T21:49:21.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IChromosome.cs",
+              "DocumentMoniker": "C:\\Users\\eakan\\Desktop\\Semester 2\\MSc Project\\Genetical\\ChromosomeGenerationService\\ChromosomeGenerationService\\Interfaces\\IChromosome.cs",
+              "RelativeDocumentMoniker": "ChromosomeGenerationService\\Interfaces\\IChromosome.cs",
+              "ToolTip": "C:\\Users\\eakan\\Desktop\\Semester 2\\MSc Project\\Genetical\\ChromosomeGenerationService\\ChromosomeGenerationService\\Interfaces\\IChromosome.cs",
+              "RelativeToolTip": "ChromosomeGenerationService\\Interfaces\\IChromosome.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T21:46:17.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChromosomeRandom.cs",
+              "DocumentMoniker": "C:\\Users\\eakan\\Desktop\\Semester 2\\MSc Project\\Genetical\\ChromosomeGenerationService\\ChromosomeGenerationService\\Services\\ChromosomeRandom.cs",
+              "RelativeDocumentMoniker": "ChromosomeGenerationService\\Services\\ChromosomeRandom.cs",
+              "ToolTip": "C:\\Users\\eakan\\Desktop\\Semester 2\\MSc Project\\Genetical\\ChromosomeGenerationService\\ChromosomeGenerationService\\Services\\ChromosomeRandom.cs",
+              "RelativeToolTip": "ChromosomeGenerationService\\Services\\ChromosomeRandom.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T21:35:01.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChromosomeController.cs",
+              "DocumentMoniker": "C:\\Users\\eakan\\Desktop\\Semester 2\\MSc Project\\Genetical\\ChromosomeGenerationService\\ChromosomeGenerationService\\Controllers\\ChromosomeController.cs",
+              "RelativeDocumentMoniker": "ChromosomeGenerationService\\Controllers\\ChromosomeController.cs",
+              "ToolTip": "C:\\Users\\eakan\\Desktop\\Semester 2\\MSc Project\\Genetical\\ChromosomeGenerationService\\ChromosomeGenerationService\\Controllers\\ChromosomeController.cs",
+              "RelativeToolTip": "ChromosomeGenerationService\\Controllers\\ChromosomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T18:22:01.5Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
