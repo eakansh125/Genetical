@@ -1,6 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using ChromosomeGenerationService.Models;
 using System.Collections.Generic;
+using ChromosomeGenerationService.Interfaces;
+using ChromosomeGenerationService.Services;
 
 namespace ChromosomeGenerationService.Controllers
 {
@@ -9,19 +11,21 @@ namespace ChromosomeGenerationService.Controllers
     public class ChromosomeController : ControllerBase
     {
         [HttpGet]
-        public ActionResult<Chromosome> GenerateChromosome(int geneLength)
+        public ActionResult<Chromosome> GenerateChromosome(int geneLength, int generationType)
         {
-            var random = new Random();
-            var genes = new List<int>();
-
-            // Binary genes (0 or 1)
-            for (int i = 0; i < geneLength; i++)
+            if (generationType == 1)
             {
-                genes.Add(random.Next(0, 2)); 
+                IChromosome chromosomeRandom = new ChromosomeRandom();
+                return Ok(chromosomeRandom.Generate(geneLength));
             }
-
-            var chromosome = new Chromosome { Genes = genes };
-            return Ok(chromosome);
+            else if (generationType == 2)
+            {
+                IChromosome chromosomeHeuristic = new ChromosomeHeuristic();
+                return Ok(chromosomeHeuristic.Generate(geneLength));
+            }
+            
+            return Ok("Invalid generation selection, please enter correct generation type");
+        
         }
     }
 }

@@ -1,4 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using MutationService.Interfaces;
+using MutationService.Services;
 
 namespace MutationService.Controllers
 {
@@ -7,18 +9,12 @@ namespace MutationService.Controllers
     public class MutationController : ControllerBase
     {
         [HttpPost]
-        public ActionResult<Chromosome> MutateChromosome([FromBody] Chromosome chromosome, double mutationRate)
+        public ActionResult<Chromosome> MutateChromosome([FromBody] Chromosome chromosome, double mutationRate, int mutationType)
         {
-            var random = new Random();
+            IMutation mutationBitflip = new MutationBitflip();
 
-            for (int i = 0; i < chromosome.Genes.Count; i++)
-            {
-                if (random.NextDouble() < mutationRate)
-                {
-                    chromosome.Genes[i] = 1 - chromosome.Genes[i]; // Flip bit
-                }
-            }
-
+            var mutation = mutationBitflip.Mutate(chromosome, mutationRate);
+            
             return Ok(chromosome);
         }
     }

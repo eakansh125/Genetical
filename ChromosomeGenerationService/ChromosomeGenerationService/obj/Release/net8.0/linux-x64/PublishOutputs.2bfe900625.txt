@@ -1,0 +1,11 @@
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\ChromosomeGenerationService\ChromosomeGenerationService\obj\Release\net8.0\linux-x64\PubTmp\Out\ChromosomeGenerationService
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\ChromosomeGenerationService\ChromosomeGenerationService\obj\Release\net8.0\linux-x64\PubTmp\Out\appsettings.Development.json
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\ChromosomeGenerationService\ChromosomeGenerationService\obj\Release\net8.0\linux-x64\PubTmp\Out\appsettings.json
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\ChromosomeGenerationService\ChromosomeGenerationService\obj\Release\net8.0\linux-x64\PubTmp\Out\ChromosomeGenerationService.dll
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\ChromosomeGenerationService\ChromosomeGenerationService\obj\Release\net8.0\linux-x64\PubTmp\Out\ChromosomeGenerationService.deps.json
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\ChromosomeGenerationService\ChromosomeGenerationService\obj\Release\net8.0\linux-x64\PubTmp\Out\ChromosomeGenerationService.runtimeconfig.json
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\ChromosomeGenerationService\ChromosomeGenerationService\obj\Release\net8.0\linux-x64\PubTmp\Out\ChromosomeGenerationService.pdb
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\ChromosomeGenerationService\ChromosomeGenerationService\obj\Release\net8.0\linux-x64\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\ChromosomeGenerationService\ChromosomeGenerationService\obj\Release\net8.0\linux-x64\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\ChromosomeGenerationService\ChromosomeGenerationService\obj\Release\net8.0\linux-x64\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\ChromosomeGenerationService\ChromosomeGenerationService\obj\Release\net8.0\linux-x64\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

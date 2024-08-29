@@ -433,11 +433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eakan\\Desktop\\Semester 2\\MSc Project\\Generic GA\\FitnessFunctionService\\FitnessFunctionService\\FitnessFunctionService.csproj",
+      "projectUniqueName": "C:\\Users\\eakan\\Desktop\\Semester 2\\MSc Project\\Genetical\\FitnessFunctionService\\FitnessFunctionService\\FitnessFunctionService.csproj",
       "projectName": "FitnessFunctionService",
-      "projectPath": "C:\\Users\\eakan\\Desktop\\Semester 2\\MSc Project\\Generic GA\\FitnessFunctionService\\FitnessFunctionService\\FitnessFunctionService.csproj",
+      "projectPath": "C:\\Users\\eakan\\Desktop\\Semester 2\\MSc Project\\Genetical\\FitnessFunctionService\\FitnessFunctionService\\FitnessFunctionService.csproj",
       "packagesPath": "C:\\Users\\eakan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eakan\\Desktop\\Semester 2\\MSc Project\\Generic GA\\FitnessFunctionService\\FitnessFunctionService\\obj\\",
+      "outputPath": "C:\\Users\\eakan\\Desktop\\Semester 2\\MSc Project\\Genetical\\FitnessFunctionService\\FitnessFunctionService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\eakan\\AppData\\Roaming\\NuGet\\NuGet.Config",

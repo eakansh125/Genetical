@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eakan\\Desktop\\Semester 2\\MSc Project\\Generic GA\\ChromosomeGenerationService\\ChromosomeGenerationService\\ChromosomeGenerationService.csproj": {}
+    "C:\\Users\\eakan\\Desktop\\Semester 2\\MSc Project\\Genetical\\ChromosomeGenerationService\\ChromosomeGenerationService\\ChromosomeGenerationService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eakan\\Desktop\\Semester 2\\MSc Project\\Generic GA\\ChromosomeGenerationService\\ChromosomeGenerationService\\ChromosomeGenerationService.csproj": {
+    "C:\\Users\\eakan\\Desktop\\Semester 2\\MSc Project\\Genetical\\ChromosomeGenerationService\\ChromosomeGenerationService\\ChromosomeGenerationService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eakan\\Desktop\\Semester 2\\MSc Project\\Generic GA\\ChromosomeGenerationService\\ChromosomeGenerationService\\ChromosomeGenerationService.csproj",
+        "projectUniqueName": "C:\\Users\\eakan\\Desktop\\Semester 2\\MSc Project\\Genetical\\ChromosomeGenerationService\\ChromosomeGenerationService\\ChromosomeGenerationService.csproj",
         "projectName": "ChromosomeGenerationService",
-        "projectPath": "C:\\Users\\eakan\\Desktop\\Semester 2\\MSc Project\\Generic GA\\ChromosomeGenerationService\\ChromosomeGenerationService\\ChromosomeGenerationService.csproj",
+        "projectPath": "C:\\Users\\eakan\\Desktop\\Semester 2\\MSc Project\\Genetical\\ChromosomeGenerationService\\ChromosomeGenerationService\\ChromosomeGenerationService.csproj",
         "packagesPath": "C:\\Users\\eakan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eakan\\Desktop\\Semester 2\\MSc Project\\Generic GA\\ChromosomeGenerationService\\ChromosomeGenerationService\\obj\\",
+        "outputPath": "C:\\Users\\eakan\\Desktop\\Semester 2\\MSc Project\\Genetical\\ChromosomeGenerationService\\ChromosomeGenerationService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eakan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -46,6 +46,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.21.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"

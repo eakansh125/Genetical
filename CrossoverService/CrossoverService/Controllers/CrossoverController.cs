@@ -10,7 +10,7 @@
         public class CrossoverController : ControllerBase
         {
             [HttpPost]
-            public ActionResult<List<Chromosome>> CrossoverChromosomes([FromBody] List<Chromosome> parents)
+            public ActionResult<List<Chromosome>> CrossoverChromosomes([FromBody] List<Chromosome> parents, int crossoverType)
             {
                 if (parents.Count < 2)
                 {

@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("f129c3ac-7b9c-4ecf-8d91-0c884a271fc1")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChromosomeGenerationService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ea04422fd1c87b38266df9db42ba712b483758b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChromosomeGenerationService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChromosomeGenerationService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

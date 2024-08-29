@@ -62,3 +62,36 @@ C:\Users\eakan\Desktop\Semester 2\MSc Project\Generic GA\CrossoverService\Crosso
 C:\Users\eakan\Desktop\Semester 2\MSc Project\Generic GA\CrossoverService\CrossoverService\obj\Debug\net8.0\CrossoverService.pdb
 C:\Users\eakan\Desktop\Semester 2\MSc Project\Generic GA\CrossoverService\CrossoverService\obj\Debug\net8.0\CrossoverService.genruntimeconfig.cache
 C:\Users\eakan\Desktop\Semester 2\MSc Project\Generic GA\CrossoverService\CrossoverService\obj\Debug\net8.0\ref\CrossoverService.dll
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\CrossoverService\CrossoverService\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\CrossoverService\CrossoverService\bin\Debug\net8.0\appsettings.json
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\CrossoverService\CrossoverService\bin\Debug\net8.0\CrossoverService.exe
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\CrossoverService\CrossoverService\bin\Debug\net8.0\CrossoverService.deps.json
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\CrossoverService\CrossoverService\bin\Debug\net8.0\CrossoverService.runtimeconfig.json
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\CrossoverService\CrossoverService\bin\Debug\net8.0\CrossoverService.dll
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\CrossoverService\CrossoverService\bin\Debug\net8.0\CrossoverService.pdb
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\CrossoverService\CrossoverService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\CrossoverService\CrossoverService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\CrossoverService\CrossoverService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\CrossoverService\CrossoverService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\CrossoverService\CrossoverService\obj\Debug\net8.0\CrossoverService.csproj.AssemblyReference.cache
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\CrossoverService\CrossoverService\obj\Debug\net8.0\CrossoverService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\CrossoverService\CrossoverService\obj\Debug\net8.0\CrossoverService.AssemblyInfoInputs.cache
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\CrossoverService\CrossoverService\obj\Debug\net8.0\CrossoverService.AssemblyInfo.cs
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\CrossoverService\CrossoverService\obj\Debug\net8.0\CrossoverService.csproj.CoreCompileInputs.cache
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\CrossoverService\CrossoverService\obj\Debug\net8.0\CrossoverService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\CrossoverService\CrossoverService\obj\Debug\net8.0\CrossoverService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\CrossoverService\CrossoverService\obj\Debug\net8.0\CrossoverService.sourcelink.json
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\CrossoverService\CrossoverService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\CrossoverService\CrossoverService\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\CrossoverService\CrossoverService\obj\Debug\net8.0\staticwebassets\msbuild.CrossoverService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\CrossoverService\CrossoverService\obj\Debug\net8.0\staticwebassets\msbuild.build.CrossoverService.props
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\CrossoverService\CrossoverService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CrossoverService.props
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\CrossoverService\CrossoverService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CrossoverService.props
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\CrossoverService\CrossoverService\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\CrossoverService\CrossoverService\obj\Debug\net8.0\scopedcss\bundle\CrossoverService.styles.css
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\CrossoverService\CrossoverService\obj\Debug\net8.0\Crossove.F531E6A3.Up2Date
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\CrossoverService\CrossoverService\obj\Debug\net8.0\CrossoverService.dll
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\CrossoverService\CrossoverService\obj\Debug\net8.0\refint\CrossoverService.dll
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\CrossoverService\CrossoverService\obj\Debug\net8.0\CrossoverService.pdb
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\CrossoverService\CrossoverService\obj\Debug\net8.0\CrossoverService.genruntimeconfig.cache
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\CrossoverService\CrossoverService\obj\Debug\net8.0\ref\CrossoverService.dll

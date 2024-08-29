@@ -1,25 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\eakan\\Desktop\\Semester 2\\MSc Project\\Generic GA\\FitnessFunctionService\\",
+  "WorkspaceRootPath": "C:\\Users\\eakan\\Desktop\\Semester 2\\MSc Project\\Genetical\\FitnessFunctionService\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E315767A-CA33-4CEF-943C-131C363C0629}|FitnessFunctionService\\FitnessFunctionService.csproj|c:\\users\\eakan\\desktop\\semester 2\\msc project\\generic ga\\fitnessfunctionservice\\fitnessfunctionservice\\controllers\\fitnessfunctioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E315767A-CA33-4CEF-943C-131C363C0629}|FitnessFunctionService\\FitnessFunctionService.csproj|solutionrelative:fitnessfunctionservice\\controllers\\fitnessfunctioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E315767A-CA33-4CEF-943C-131C363C0629}|FitnessFunctionService\\FitnessFunctionService.csproj|c:\\users\\eakan\\desktop\\semester 2\\msc project\\generic ga\\fitnessfunctionservice\\fitnessfunctionservice\\services\\fitnessfunctiongeneral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E315767A-CA33-4CEF-943C-131C363C0629}|FitnessFunctionService\\FitnessFunctionService.csproj|c:\\users\\eakan\\desktop\\semester 2\\msc project\\genetical\\fitnessfunctionservice\\fitnessfunctionservice\\services\\fitnessfunctiongeneral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E315767A-CA33-4CEF-943C-131C363C0629}|FitnessFunctionService\\FitnessFunctionService.csproj|solutionrelative:fitnessfunctionservice\\services\\fitnessfunctiongeneral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E315767A-CA33-4CEF-943C-131C363C0629}|FitnessFunctionService\\FitnessFunctionService.csproj|c:\\users\\eakan\\desktop\\semester 2\\msc project\\generic ga\\fitnessfunctionservice\\fitnessfunctionservice\\chromosome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E315767A-CA33-4CEF-943C-131C363C0629}|FitnessFunctionService\\FitnessFunctionService.csproj|solutionrelative:fitnessfunctionservice\\chromosome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E315767A-CA33-4CEF-943C-131C363C0629}|FitnessFunctionService\\FitnessFunctionService.csproj|c:\\users\\eakan\\desktop\\semester 2\\msc project\\genetical\\fitnessfunctionservice\\fitnessfunctionservice\\controllers\\fitnessfunctioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E315767A-CA33-4CEF-943C-131C363C0629}|FitnessFunctionService\\FitnessFunctionService.csproj|solutionrelative:fitnessfunctionservice\\controllers\\fitnessfunctioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E315767A-CA33-4CEF-943C-131C363C0629}|FitnessFunctionService\\FitnessFunctionService.csproj|c:\\users\\eakan\\desktop\\semester 2\\msc project\\generic ga\\fitnessfunctionservice\\fitnessfunctionservice\\interfaces\\ifitnessfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E315767A-CA33-4CEF-943C-131C363C0629}|FitnessFunctionService\\FitnessFunctionService.csproj|c:\\users\\eakan\\desktop\\semester 2\\msc project\\genetical\\fitnessfunctionservice\\fitnessfunctionservice\\services\\fitnessfunctionnormalized.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E315767A-CA33-4CEF-943C-131C363C0629}|FitnessFunctionService\\FitnessFunctionService.csproj|solutionrelative:fitnessfunctionservice\\services\\fitnessfunctionnormalized.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E315767A-CA33-4CEF-943C-131C363C0629}|FitnessFunctionService\\FitnessFunctionService.csproj|c:\\users\\eakan\\desktop\\semester 2\\msc project\\genetical\\fitnessfunctionservice\\fitnessfunctionservice\\interfaces\\ifitnessfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E315767A-CA33-4CEF-943C-131C363C0629}|FitnessFunctionService\\FitnessFunctionService.csproj|solutionrelative:fitnessfunctionservice\\interfaces\\ifitnessfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E315767A-CA33-4CEF-943C-131C363C0629}|FitnessFunctionService\\FitnessFunctionService.csproj|c:\\users\\eakan\\desktop\\semester 2\\msc project\\generic ga\\fitnessfunctionservice\\fitnessfunctionservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E315767A-CA33-4CEF-943C-131C363C0629}|FitnessFunctionService\\FitnessFunctionService.csproj|c:\\users\\eakan\\desktop\\semester 2\\msc project\\genetical\\fitnessfunctionservice\\fitnessfunctionservice\\chromosome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E315767A-CA33-4CEF-943C-131C363C0629}|FitnessFunctionService\\FitnessFunctionService.csproj|solutionrelative:fitnessfunctionservice\\chromosome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E315767A-CA33-4CEF-943C-131C363C0629}|FitnessFunctionService\\FitnessFunctionService.csproj|c:\\users\\eakan\\desktop\\semester 2\\msc project\\genetical\\fitnessfunctionservice\\fitnessfunctionservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E315767A-CA33-4CEF-943C-131C363C0629}|FitnessFunctionService\\FitnessFunctionService.csproj|solutionrelative:fitnessfunctionservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,21 +34,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FitnessFunctionNormalized.cs",
+              "DocumentMoniker": "C:\\Users\\eakan\\Desktop\\Semester 2\\MSc Project\\Genetical\\FitnessFunctionService\\FitnessFunctionService\\Services\\FitnessFunctionNormalized.cs",
+              "RelativeDocumentMoniker": "FitnessFunctionService\\Services\\FitnessFunctionNormalized.cs",
+              "ToolTip": "C:\\Users\\eakan\\Desktop\\Semester 2\\MSc Project\\Genetical\\FitnessFunctionService\\FitnessFunctionService\\Services\\FitnessFunctionNormalized.cs",
+              "RelativeToolTip": "FitnessFunctionService\\Services\\FitnessFunctionNormalized.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T16:26:15.695Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "FitnessFunctionGeneral.cs",
-              "DocumentMoniker": "C:\\Users\\eakan\\Desktop\\Semester 2\\MSc Project\\Generic GA\\FitnessFunctionService\\FitnessFunctionService\\Services\\FitnessFunctionGeneral.cs",
+              "DocumentMoniker": "C:\\Users\\eakan\\Desktop\\Semester 2\\MSc Project\\Genetical\\FitnessFunctionService\\FitnessFunctionService\\Services\\FitnessFunctionGeneral.cs",
               "RelativeDocumentMoniker": "FitnessFunctionService\\Services\\FitnessFunctionGeneral.cs",
-              "ToolTip": "C:\\Users\\eakan\\Desktop\\Semester 2\\MSc Project\\Generic GA\\FitnessFunctionService\\FitnessFunctionService\\Services\\FitnessFunctionGeneral.cs",
+              "ToolTip": "C:\\Users\\eakan\\Desktop\\Semester 2\\MSc Project\\Genetical\\FitnessFunctionService\\FitnessFunctionService\\Services\\FitnessFunctionGeneral.cs",
               "RelativeToolTip": "FitnessFunctionService\\Services\\FitnessFunctionGeneral.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-02T16:03:21.407Z",
               "EditorCaption": ""
@@ -53,21 +65,21 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "IFitnessFunction.cs",
-              "DocumentMoniker": "C:\\Users\\eakan\\Desktop\\Semester 2\\MSc Project\\Generic GA\\FitnessFunctionService\\FitnessFunctionService\\Interfaces\\IFitnessFunction.cs",
+              "DocumentMoniker": "C:\\Users\\eakan\\Desktop\\Semester 2\\MSc Project\\Genetical\\FitnessFunctionService\\FitnessFunctionService\\Interfaces\\IFitnessFunction.cs",
               "RelativeDocumentMoniker": "FitnessFunctionService\\Interfaces\\IFitnessFunction.cs",
-              "ToolTip": "C:\\Users\\eakan\\Desktop\\Semester 2\\MSc Project\\Generic GA\\FitnessFunctionService\\FitnessFunctionService\\Interfaces\\IFitnessFunction.cs",
+              "ToolTip": "C:\\Users\\eakan\\Desktop\\Semester 2\\MSc Project\\Genetical\\FitnessFunctionService\\FitnessFunctionService\\Interfaces\\IFitnessFunction.cs",
               "RelativeToolTip": "FitnessFunctionService\\Interfaces\\IFitnessFunction.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-02T15:55:19.031Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\eakan\\Desktop\\Semester 2\\MSc Project\\Generic GA\\FitnessFunctionService\\FitnessFunctionService\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\eakan\\Desktop\\Semester 2\\MSc Project\\Genetical\\FitnessFunctionService\\FitnessFunctionService\\Program.cs",
               "RelativeDocumentMoniker": "FitnessFunctionService\\Program.cs",
-              "ToolTip": "C:\\Users\\eakan\\Desktop\\Semester 2\\MSc Project\\Generic GA\\FitnessFunctionService\\FitnessFunctionService\\Program.cs",
+              "ToolTip": "C:\\Users\\eakan\\Desktop\\Semester 2\\MSc Project\\Genetical\\FitnessFunctionService\\FitnessFunctionService\\Program.cs",
               "RelativeToolTip": "FitnessFunctionService\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -75,24 +87,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "FitnessFunctionController.cs",
-              "DocumentMoniker": "C:\\Users\\eakan\\Desktop\\Semester 2\\MSc Project\\Generic GA\\FitnessFunctionService\\FitnessFunctionService\\Controllers\\FitnessFunctionController.cs",
+              "DocumentMoniker": "C:\\Users\\eakan\\Desktop\\Semester 2\\MSc Project\\Genetical\\FitnessFunctionService\\FitnessFunctionService\\Controllers\\FitnessFunctionController.cs",
               "RelativeDocumentMoniker": "FitnessFunctionService\\Controllers\\FitnessFunctionController.cs",
-              "ToolTip": "C:\\Users\\eakan\\Desktop\\Semester 2\\MSc Project\\Generic GA\\FitnessFunctionService\\FitnessFunctionService\\Controllers\\FitnessFunctionController.cs",
+              "ToolTip": "C:\\Users\\eakan\\Desktop\\Semester 2\\MSc Project\\Genetical\\FitnessFunctionService\\FitnessFunctionService\\Controllers\\FitnessFunctionController.cs",
               "RelativeToolTip": "FitnessFunctionService\\Controllers\\FitnessFunctionController.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAcwAwAAAAuAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAQwBYAAABXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-14T19:30:40.382Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Chromosome.cs",
-              "DocumentMoniker": "C:\\Users\\eakan\\Desktop\\Semester 2\\MSc Project\\Generic GA\\FitnessFunctionService\\FitnessFunctionService\\Chromosome.cs",
+              "DocumentMoniker": "C:\\Users\\eakan\\Desktop\\Semester 2\\MSc Project\\Genetical\\FitnessFunctionService\\FitnessFunctionService\\Chromosome.cs",
               "RelativeDocumentMoniker": "FitnessFunctionService\\Chromosome.cs",
-              "ToolTip": "C:\\Users\\eakan\\Desktop\\Semester 2\\MSc Project\\Generic GA\\FitnessFunctionService\\FitnessFunctionService\\Chromosome.cs",
+              "ToolTip": "C:\\Users\\eakan\\Desktop\\Semester 2\\MSc Project\\Genetical\\FitnessFunctionService\\FitnessFunctionService\\Chromosome.cs",
               "RelativeToolTip": "FitnessFunctionService\\Chromosome.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

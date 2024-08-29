@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eakan\\Desktop\\Semester 2\\MSc Project\\Generic GA\\SelectionService\\SelectionService\\SelectionService.csproj": {}
+    "C:\\Users\\eakan\\Desktop\\Semester 2\\MSc Project\\Genetical\\SelectionService\\SelectionService\\SelectionService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eakan\\Desktop\\Semester 2\\MSc Project\\Generic GA\\SelectionService\\SelectionService\\SelectionService.csproj": {
+    "C:\\Users\\eakan\\Desktop\\Semester 2\\MSc Project\\Genetical\\SelectionService\\SelectionService\\SelectionService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eakan\\Desktop\\Semester 2\\MSc Project\\Generic GA\\SelectionService\\SelectionService\\SelectionService.csproj",
+        "projectUniqueName": "C:\\Users\\eakan\\Desktop\\Semester 2\\MSc Project\\Genetical\\SelectionService\\SelectionService\\SelectionService.csproj",
         "projectName": "SelectionService",
-        "projectPath": "C:\\Users\\eakan\\Desktop\\Semester 2\\MSc Project\\Generic GA\\SelectionService\\SelectionService\\SelectionService.csproj",
+        "projectPath": "C:\\Users\\eakan\\Desktop\\Semester 2\\MSc Project\\Genetical\\SelectionService\\SelectionService\\SelectionService.csproj",
         "packagesPath": "C:\\Users\\eakan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eakan\\Desktop\\Semester 2\\MSc Project\\Generic GA\\SelectionService\\SelectionService\\obj\\",
+        "outputPath": "C:\\Users\\eakan\\Desktop\\Semester 2\\MSc Project\\Genetical\\SelectionService\\SelectionService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eakan\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MutationService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ea04422fd1c87b38266df9db42ba712b483758b")]
 [assembly: System.Reflection.AssemblyProductAttribute("MutationService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MutationService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

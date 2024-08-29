@@ -472,11 +472,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eakan\\Desktop\\Semester 2\\MSc Project\\Generic GA\\GAOrchestrator\\GAOrchestrator\\GAOrchestrator.csproj",
+      "projectUniqueName": "C:\\Users\\eakan\\Desktop\\Semester 2\\MSc Project\\Genetical\\GAOrchestrator\\GAOrchestrator\\GAOrchestrator.csproj",
       "projectName": "GAOrchestrator",
-      "projectPath": "C:\\Users\\eakan\\Desktop\\Semester 2\\MSc Project\\Generic GA\\GAOrchestrator\\GAOrchestrator\\GAOrchestrator.csproj",
+      "projectPath": "C:\\Users\\eakan\\Desktop\\Semester 2\\MSc Project\\Genetical\\GAOrchestrator\\GAOrchestrator\\GAOrchestrator.csproj",
       "packagesPath": "C:\\Users\\eakan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eakan\\Desktop\\Semester 2\\MSc Project\\Generic GA\\GAOrchestrator\\GAOrchestrator\\obj\\",
+      "outputPath": "C:\\Users\\eakan\\Desktop\\Semester 2\\MSc Project\\Genetical\\GAOrchestrator\\GAOrchestrator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\eakan\\AppData\\Roaming\\NuGet\\NuGet.Config",

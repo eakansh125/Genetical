@@ -16,11 +16,22 @@ namespace FitnessFunctionService.Controllers
         //}
         
         [HttpPost]
-        public ActionResult<double> EvaluateFitness([FromBody] Chromosome chromosome)
+        public ActionResult<double> EvaluateFitness([FromBody] Chromosome chromosome, int fitnessType)
         {
-            IFitnessFunction fitnessFunctionGeneral = new FitnessFunctionGeneral(); 
-            var fitness = fitnessFunctionGeneral.CalculateFitness(chromosome);
-            return Ok(fitness);
+            if (fitnessType == 1)
+            {
+                IFitnessFunction fitnessFunctionGeneral = new FitnessFunctionGeneral();
+                return Ok(fitnessFunctionGeneral.CalculateFitness(chromosome));
+            }
+            else if (fitnessType == 2)
+            {
+                IFitnessFunction fitnessFunctionNormalized = new FitnessFunctionNormalized(0.3, 0.8);
+                return Ok(fitnessFunctionNormalized.CalculateFitness(chromosome));
+            }
+            
+            
+            //var fitness = fitnessFunctionNormalized.CalculateFitness(chromosome);
+            return BadRequest("Invalid fitness selection, please enter a valid fitness function type");
         }
     }
 }

@@ -30,3 +30,36 @@ C:\Users\eakan\Desktop\Semester 2\MSc Project\Generic GA\SelectionService\Select
 C:\Users\eakan\Desktop\Semester 2\MSc Project\Generic GA\SelectionService\SelectionService\obj\Debug\net8.0\SelectionService.pdb
 C:\Users\eakan\Desktop\Semester 2\MSc Project\Generic GA\SelectionService\SelectionService\obj\Debug\net8.0\SelectionService.genruntimeconfig.cache
 C:\Users\eakan\Desktop\Semester 2\MSc Project\Generic GA\SelectionService\SelectionService\obj\Debug\net8.0\ref\SelectionService.dll
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\SelectionService\SelectionService\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\SelectionService\SelectionService\bin\Debug\net8.0\appsettings.json
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\SelectionService\SelectionService\bin\Debug\net8.0\SelectionService.exe
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\SelectionService\SelectionService\bin\Debug\net8.0\SelectionService.deps.json
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\SelectionService\SelectionService\bin\Debug\net8.0\SelectionService.runtimeconfig.json
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\SelectionService\SelectionService\bin\Debug\net8.0\SelectionService.dll
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\SelectionService\SelectionService\bin\Debug\net8.0\SelectionService.pdb
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\SelectionService\SelectionService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\SelectionService\SelectionService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\SelectionService\SelectionService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\SelectionService\SelectionService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\SelectionService\SelectionService\obj\Debug\net8.0\SelectionService.csproj.AssemblyReference.cache
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\SelectionService\SelectionService\obj\Debug\net8.0\SelectionService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\SelectionService\SelectionService\obj\Debug\net8.0\SelectionService.AssemblyInfoInputs.cache
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\SelectionService\SelectionService\obj\Debug\net8.0\SelectionService.AssemblyInfo.cs
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\SelectionService\SelectionService\obj\Debug\net8.0\SelectionService.csproj.CoreCompileInputs.cache
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\SelectionService\SelectionService\obj\Debug\net8.0\SelectionService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\SelectionService\SelectionService\obj\Debug\net8.0\SelectionService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\SelectionService\SelectionService\obj\Debug\net8.0\SelectionService.sourcelink.json
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\SelectionService\SelectionService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\SelectionService\SelectionService\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\SelectionService\SelectionService\obj\Debug\net8.0\staticwebassets\msbuild.SelectionService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\SelectionService\SelectionService\obj\Debug\net8.0\staticwebassets\msbuild.build.SelectionService.props
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\SelectionService\SelectionService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SelectionService.props
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\SelectionService\SelectionService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SelectionService.props
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\SelectionService\SelectionService\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\SelectionService\SelectionService\obj\Debug\net8.0\scopedcss\bundle\SelectionService.styles.css
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\SelectionService\SelectionService\obj\Debug\net8.0\Selectio.15145DB0.Up2Date
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\SelectionService\SelectionService\obj\Debug\net8.0\SelectionService.dll
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\SelectionService\SelectionService\obj\Debug\net8.0\refint\SelectionService.dll
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\SelectionService\SelectionService\obj\Debug\net8.0\SelectionService.pdb
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\SelectionService\SelectionService\obj\Debug\net8.0\SelectionService.genruntimeconfig.cache
+C:\Users\eakan\Desktop\Semester 2\MSc Project\Genetical\SelectionService\SelectionService\obj\Debug\net8.0\ref\SelectionService.dll
